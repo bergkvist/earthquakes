@@ -1,3 +1,6 @@
+# Javascript bundle file
+dist/main.js
+
 # Logs
 logs
 *.log
