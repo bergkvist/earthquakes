@@ -3,13 +3,7 @@ const webpack = require('webpack')
 // This means we get autocomplete:
 const { options } = webpack({
     entry: './src/index.js',
-    mode: 'development',
-    
-    // Use typescript
-    resolve: { extensions: ['.ts', '.tsx', '.js'] },
-    module: {
-        rules: [{ test: /\.tsx?$/, loader: 'ts-loader' }]
-    },
+    mode: 'production',
     
     // Used for webpack-dev-server
     devServer: {
