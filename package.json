@@ -29,6 +29,7 @@
     "ts-loader": "^6.0.0",
     "typescript": "^3.4.5",
     "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2",
     "world-atlas": "^1.1.4"
   }
 }
