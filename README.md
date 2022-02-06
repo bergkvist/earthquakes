@@ -1,5 +1,5 @@
 # bergkvist/earthquakes
-Website with earthquakes and their magnitudes visualized using d3.js
+Website with earthquakes and their magnitudes visualized using d3.js from the last 30 days.
 
 ## Data sources
  - World map: `world-atlas` (npm)
